@@ -1,0 +1,29 @@
+Skeleton and Ghosts spritesheets (Ars Notoria)
+Public Domain CC0
+
+Sewer tileset
+CC-BY 3.0
+GPL 2.0
+
+Temp logo background -  WatchMaker666
+http://s191.photobucket.com/user/WatchMaker666/media/dungeon00.jpg.html
+
+
+background lava cave image - Lava Cave by DaniSeik
+http://daniseik.deviantart.com/art/Lava-Cave-356160409
+
+
+Imp sprite
+[LPC] Imp 2 - Stephen "Redshrike" Challener (graphic artist) and William.Thompsonj (contributor)
+http://opengameart.org/content/lpc-imp-2
+CC-BY 3.0, GPL 3.0, GPL 2.0, OGA-BY 3.0
+
+Bat sprite 
+Bat sprite - bagzie
+http://opengameart.org/content/bat-sprite
+OGA-BY 3.0
+
+Background music
+Shipwreck in the Pacific Ocean - Rolemusic
+http://freemusicarchive.org/music/Rolemusic/The_Pirate_And_The_Dancer/01_rolemusic_-_shipwreck_in_the_pacific_ocean
+CC BY
